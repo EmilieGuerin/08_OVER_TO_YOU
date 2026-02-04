@@ -3,3 +3,5 @@ Hello
 My name is Emilie and I work in the field of public transport planning and service development, with a strong focus on data analysis.
 
 In my work, I analyze large volumes of ridership, occupancy, and service performance data. 
+
+The objective is to improve the quality of the analyses produced, stengthen decision-making process, and propose more relevant and well-argued solutions that are directly aligned with the operational and strategic challenges of public transport.
